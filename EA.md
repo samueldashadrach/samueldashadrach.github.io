@@ -14,7 +14,7 @@ List of some things I'm curious about, along with some relevant posts. I haven't
  - EA fund management and community building - [Giving Block for crypto donations](https://forum.effectivealtruism.org/posts/oqXueeBESjjPb9wvZ/ea-orgs-should-integrate-with-the-giving-block-for), [Seeing effects of donation first-hand](https://forum.effectivealtruism.org/posts/oYvmPnc72npdtFuPg/effects-of-being-able-to-see-effects-of-donation-first-hand)
 
 
-**I am looking for a research training programme or internship for Summer 2022 to improve my research capability, gain experience and possibly zero in on one specific field to commit myself to.**
+**I am looking for a research training programme or internship for Summer 2022 to improve my research capability and gain experience.**
 
 Profiles: [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach), [personal blog](https://kroma.substack.com), [Crypto](https://samueldashadrach.github.io/Crypto/)
 
