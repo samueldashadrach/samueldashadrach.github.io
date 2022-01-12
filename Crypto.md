@@ -16,7 +16,7 @@ Links to some of my stuff:
 
 I feel crypto's biggest innovation today is stablecoins, and am keen to see more meatspace integration of crypto. I think crypto has an incentive alignment problem despite overflowing with funding, because of its (imho unnecessary) reliance on memetic assets.
 
-I'm also excited by privacy and decentralised tech besides blockchains - be it Tor, end-to-end encryption, obfuscation tools or attempts to decentralise [social media](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20), file storage, [DOS protection](https://ethresear.ch/t/decentralised-cloudflare-using-rln-and-rich-user-identities/10774) or [identity and authorisation](https://arxiv.org/abs/2008.05300). IMO apps that don't directly handle economic value mostly don't need "consensus" as narrowly defined by blockchains.
+I'm also excited by privacy and decentralised tech besides blockchains - be it [Tor](https://skerritt.blog/how-does-tor-really-work/), end-to-end encryption, obfuscation tools or attempts to decentralise [social media](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20), file storage, [DOS protection](https://ethresear.ch/t/decentralised-cloudflare-using-rln-and-rich-user-identities/10774) or [identity and authorisation](https://arxiv.org/abs/2008.05300). IMO apps that don't directly handle economic value mostly don't need "consensus" as narrowly defined by blockchains.
 
 I am now looking more into effective altruism and research on exponential tech. I continue to be sympathetic to decentralised tech and forms of regulatory arbitrage, and am trying to understand their impact through this lens.
 
