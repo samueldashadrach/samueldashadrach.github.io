@@ -9,7 +9,7 @@ My name is Samuel Shadrach, I'm an engineering student at IIT Delhi. I was very 
 Links to some of my stuff:
 
  - [Risk in Fuse pools (videos)](https://drive.google.com/file/d/1vejTh16omTQ0JuBWunc-oTnB7xsgePu0/view?usp=sharing)
- - [Noma (archive)](https://github.com/samueldashadrach/noma-archive), my crypto-focussed blog. Content includes rollups and L2, early discussions on MEV, trust in a "trustless" world and its counterparts in the real world, and oracle security.
+ - [Noma (archive)](https://github.com/samueldashadrach/noma-archive), my crypto-focussed blog. Content includes rollups and L2, early discussions on MEV, gas efficiency driving financial design, trust in a "trustless" world and its counterparts in the real world, and oracle security.
  - [Interview with Gabriel Haines](https://www.youtube.com/watch?v=y3UIUKJVQY8)
  - [WhiteBoardDAO, archive](https://github.com/samueldashadrach/whiteboardDAO-archive), for some informal research. Message me if you want the recordings.
  - Miscellaneous: [oracle research](https://gov.uniswap.org/t/uni-should-become-an-oracle-token/11988/30), [riskfree](https://emilythemeily.medium.com/who-wants-a-risk-free-18-1acda3952ce2), [rari dao](https://medium.com/rari-capital/version-2-the-future-of-the-rari-capital-dao-9d2c37027752), [l2 and mev](https://docs.google.com/presentation/d/1uX2JAGpz4KTb_91kHHmniVR5cNiqOCFTIqI2VWcxAAI/edit#slide=id.p)
