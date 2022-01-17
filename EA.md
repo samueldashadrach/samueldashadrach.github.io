@@ -4,7 +4,7 @@ title: EA
 permalink: /EA/
 ---
 
-My name is Samuel Shadrach, I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now considering an EA-motivated research career.
+My name is Samuel Shadrach, I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now exploring EA-aligned research.
 
 List of some things I'm curious about, along with some relevant posts. I haven't received much formal support or feedback on these so I'm super keen on either of those.
 
