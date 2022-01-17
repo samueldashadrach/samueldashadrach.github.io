@@ -16,9 +16,7 @@ Links to some of my stuff:
 
 I feel crypto's biggest innovation today is stablecoins, and am keen to see more meatspace integration of crypto, be it via tokenisation or oracles.
 
-I'm also excited by privacy and decentralised tech besides blockchains - be it Tor [(explainer)](https://skerritt.blog/how-does-tor-really-work/), end-to-end encryption, obfuscation tools or attempts to decentralise social media [(review)](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20), file storage and compute, DOS protection [(example)](https://ethresear.ch/t/decentralised-cloudflare-using-rln-and-rich-user-identities/10774) or identity and authorisation [(review)](https://arxiv.org/abs/2008.05300). IMO apps that don't directly handle economic value mostly don't need "consensus" as narrowly defined by blockchains, although they could ofcourse run their payment rails on one.
-
-I am now looking more into effective altruism and research on exponential tech. I continue to be sympathetic to decentralised tech and forms of regulatory arbitrage, and am trying to understand their impact through this lens.
+I'm also excited by privacy and decentralised tech besides blockchains - be it Tor [(explainer)](https://skerritt.blog/how-does-tor-really-work/), end-to-end encryption, obfuscation tools or attempts to decentralise social media [(review)](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20), file storage and compute, DOS protection [(example)](https://ethresear.ch/t/decentralised-cloudflare-using-rln-and-rich-user-identities/10774) or identity and authorisation [(review)](https://arxiv.org/abs/2008.05300).
 
 Contact: samuel.da.shadrach@gmail.com
 
