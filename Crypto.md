@@ -4,7 +4,7 @@ title: Crypto
 permalink: /Crypto/
 ---
 
-My name is Samuel Shadrach, I'm an engineering student at IIT Delhi. I was very active in the cryptocurrency and DeFi space, including working at [Rari Capital](http://rari.capital/) and helping [Market.xyz](http://market.xyz/) in their early days. I worked on risk management of lending pools, attracting contributors and aided with strategy. My twitter handle was @SamuelShadrach4, unfortunately it is deleted and I have no backup.
+I'm an engineering student at IIT Delhi. I was very active in the cryptocurrency and DeFi space, including working at [Rari Capital](http://rari.capital/) and helping [Market.xyz](http://market.xyz/) in their early days.
 
 Links to some of my stuff:
 
