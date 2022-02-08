@@ -14,6 +14,6 @@ For sample posts please see EA forum or substack. I haven't received much suppor
 
 I am looking for a research training programme or internship for Summer 2022 to improve my research capability and gain experience.
 
-**My CV can be found here: [CV](../samuel cv ea dec 2021.pdf)**
+My CV can be found here: [CV](../samuel cv ea dec 2021.pdf)
 
 Contact: samuel.da.shadrach@gmail.com
