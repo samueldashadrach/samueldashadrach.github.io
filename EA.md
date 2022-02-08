@@ -8,7 +8,7 @@ I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency
 
 **Topics of interest:** designing better institutions and incentive structures, x-risk reduction, stable totalitarianism.
 
-**Profiles:** [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [Substack (personal)](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach), [Crypto](https://samueldashadrach.github.io/Crypto/)
+**Profiles:** [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [Substack (personal)](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach)
 
 For sample posts please see EA forum or substack. I haven't received much support or feedback on these so I'd be super keen on that.
 
