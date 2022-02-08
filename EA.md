@@ -6,11 +6,13 @@ permalink: /EA/
 
 I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now exploring EA-aligned research.
 
-Topics of interest include desinging better institutions and incentive structures, x-risk reduction and stable totalitarianism. Find posts and comments on EA forum and personal blog. I haven't received much formal support or feedback on these so I'm super keen on either of those.
+**Topics of interest:** designing better institutions and incentive structures, x-risk reduction, stable totalitarianism.
 
-**I am looking for a research training programme or internship for Summer 2022 to improve my research capability and gain experience.**
+**Profiles:** [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [personal blog](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach), [Crypto](https://samueldashadrach.github.io/Crypto/)
 
-Profiles: [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [personal blog](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach), [Crypto](https://samueldashadrach.github.io/Crypto/)
+For sample posts please see my forum profile and blog. I haven't received much support or feedback on these so I'd be super keen on that.
+
+I am looking for a research training programme or internship for Summer 2022 to improve my research capability and gain experience.
 
 **My CV can be found here: [CV](../samuel cv ea dec 2021.pdf)**
 
