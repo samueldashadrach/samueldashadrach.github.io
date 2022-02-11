@@ -10,7 +10,7 @@ I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency
 
 **Profiles:** [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [Substack (personal)](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach)
 
-Sample posts: [profit](https://forum.effectivealtruism.org/posts/WKX8Jckar6QRgx6Pd/profit-maximisation-and-obligations-on-shareholders), [surveillance](https://forum.effectivealtruism.org/posts/nm2EczMBm99AZn5JK/the-case-for-studying-stylometric-deanonymisation-as), [scihub](https://forum.effectivealtruism.org/posts/Zxiugmj5EnS6SXYnS/scihub-backups-for-open-research), [institutions](https://forum.effectivealtruism.org/posts/AiH7oJh9qMBNmfsGG/institution-design-for-exponential-technology), [supply chain](https://kroma.substack.com/p/proactive-mapping-of-global-supply)
+Sample posts: [profit](https://forum.effectivealtruism.org/posts/WKX8Jckar6QRgx6Pd/profit-maximisation-and-obligations-on-shareholders), [surveillance](https://forum.effectivealtruism.org/posts/nm2EczMBm99AZn5JK/the-case-for-studying-stylometric-deanonymisation-as), [scihub](https://forum.effectivealtruism.org/posts/Zxiugmj5EnS6SXYnS/scihub-backups-for-open-research), [institutions](https://forum.effectivealtruism.org/posts/AiH7oJh9qMBNmfsGG/institution-design-for-exponential-technology), [value stability](https://kroma.substack.com/p/some-thoughts-on-institutional-value), [supply chain](https://kroma.substack.com/p/proactive-mapping-of-global-supply)
 
 For more posts please see EA forum or substack. I haven't received much support or feedback on these so I'd be super keen on that.
 
