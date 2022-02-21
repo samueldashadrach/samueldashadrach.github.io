@@ -6,7 +6,7 @@ permalink: /EA/
 
 I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now exploring EA-aligned research.
 
-**Topics of interest:** designing better institutions and incentive structures, x-risk reduction, stable totalitarianism.
+**Topics of interest:** better institutions, x-risk reduction, stable totalitarianism
 
 **Profiles:** [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [Substack (personal)](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach)
 
