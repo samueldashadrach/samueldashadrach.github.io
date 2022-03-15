@@ -4,9 +4,9 @@ title: EA
 permalink: /EA/
 ---
 
-I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now exploring EA-aligned research.
+I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now exploring EA-aligned research. Thoughts and interests might update frequently.
 
-**Topics of interest:** better institutions, x-risk reduction, stable totalitarianism, AI strategy/governance (am still exploring)
+**Topics of interest:** better institutions, x-risk reduction, stable totalitarianism, AI strategy/governance
 
 **Profiles:** [EA forum](https://forum.effectivealtruism.org/users/samuel-shadrach-1), [Substack (personal)](https://kroma.substack.com), [LessWrong](https://www.lesswrong.com/users/samuel-shadrach)
 
