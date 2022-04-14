@@ -6,7 +6,7 @@ permalink: /EA/
 
 (Last updated April 2022)
 
-I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I am now exploring EA-aligned research. Thoughts and interests might update frequently.
+I'm an engineering student at IIT Delhi. My past experience is in cryptocurrency and decentralised tech. I learnt of effective altruism around September 2021, and am now exploring EA-aligned research work. Thoughts and interests might update frequently.
 
 **Topics of interest:** better institutions, x-risk reduction, stable totalitarianism, AI strategy/governance
 
