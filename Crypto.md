@@ -4,7 +4,7 @@ title: Crypto
 permalink: /Crypto/
 ---
 
-(last updated Feb 2022)
+(Last updated Feb 2022)
 
 I'm an engineering student at IIT Delhi. I was very active in the cryptocurrency and DeFi space, including working at [Rari Capital](http://rari.capital/) and helping [Market.xyz](http://market.xyz/) in their early days.
 
