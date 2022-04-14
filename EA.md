@@ -20,6 +20,6 @@ I am looking for a research training programme or internship for Summer 2022 to 
 
 Please find my CV below.
 
-**CV** [CV](../samuel cv ea latest.pdf)
+**CV:** [CV](../samuel cv ea latest.pdf)
 
 **Contact:** samuel.da.shadrach@gmail.com
