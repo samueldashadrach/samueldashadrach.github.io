@@ -4,6 +4,8 @@ title: Crypto
 permalink: /Crypto/
 ---
 
+(last updated Feb 2022)
+
 I'm an engineering student at IIT Delhi. I was very active in the cryptocurrency and DeFi space, including working at [Rari Capital](http://rari.capital/) and helping [Market.xyz](http://market.xyz/) in their early days.
 
 Misc links to some of my stuff: [Risk in Fuse pools (videos)](https://drive.google.com/file/d/1vejTh16omTQ0JuBWunc-oTnB7xsgePu0/view?usp=sharing), [Noma (personal blog, archive)](https://github.com/samueldashadrach/noma-archive), [interview](https://www.youtube.com/watch?v=y3UIUKJVQY8), [risks](https://emilythemeily.medium.com/who-wants-a-risk-free-18-1acda3952ce2), [RWA](https://github.com/samueldashadrach/whiteboardDAO-archive), [oracle](https://gov.uniswap.org/t/uni-should-become-an-oracle-token/11988/30),  [rari dao](https://medium.com/rari-capital/version-2-the-future-of-the-rari-capital-dao-9d2c37027752), [l2 and mev](https://docs.google.com/presentation/d/1uX2JAGpz4KTb_91kHHmniVR5cNiqOCFTIqI2VWcxAAI/edit#slide=id.p)
